@@ -16,7 +16,7 @@ export const FeaturesSection = () => {
           <span>Nossas Características</span>
           <h2>Nossas Características</h2>
           <p>
-            Na Aesy Imports Mozambique, oferecemos um serviço completo que
+            Na Easy Imports Mozambique, oferecemos um serviço completo que
             inclui desde a embalagem de carga até o transporte e desembaraço,
             garantindo a integridade e segurança das suas mercadorias em cada
             etapa.

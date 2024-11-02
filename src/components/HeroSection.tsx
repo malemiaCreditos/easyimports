@@ -25,7 +25,7 @@ export const HeroSection = () => {
                 Seu Parceiro Confiável em Importação e Exportação
               </h2>
               <p data-aos="fade-up" data-aos-delay="100">
-                Na Aesy Imports Mozambique, somos especialistas em oferecer
+                Na Easy Imports Mozambique, somos especialistas em oferecer
                 soluções ágeis e seguras para suas necessidades de importação e
                 exportação. Com uma equipe dedicada e experiente, nos orgulhamos
                 de ser o elo que conecta sua empresa aos mercados globais.
