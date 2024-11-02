@@ -30,7 +30,6 @@ export const HeroSection = () => {
                 exportação. Com uma equipe dedicada e experiente, nos orgulhamos
                 de ser o elo que conecta sua empresa aos mercados globais.
               </p>
-
               <form
                 action="#"
                 className="form-search d-flex align-items-stretch mb-3"

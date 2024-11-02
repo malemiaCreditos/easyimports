@@ -82,11 +82,11 @@ export const FooterSection = () => {
               <p>Bairro do Aeroporto A, Rua de Camões</p>
               <p>Maputo, Moçambique</p>
               <p className="mt-4">
-                <strong>Cell:</strong> <span>+258 86 840 8600</span>
+                <strong>Cell:</strong> <span>+258 21 467 387</span>
               </p>
               <p>
                 <strong>Email:</strong>{" "}
-                <span>easyimportsmozambique@gmail.com</span>
+                <span>easyimportsmoz@malemiagroup.co.mz</span>
               </p>
             </div>
           </div>
